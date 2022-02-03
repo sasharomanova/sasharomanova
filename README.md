@@ -1,5 +1,4 @@
 - 👋🏻 Hi, I’m @sasharomanova
-- 🏦 BSc Economics and Finance
 - 📷 I’m interested in photography
 - 🐍 I’m currently learning python
 - 📫 How to reach me @ss.romanova
