@@ -1,6 +1,6 @@
 - 👋🏻 hi, I’m @sasharomanova
 - 📷 I’m interested in photography
-- 🐍 I’m currently learning python
+- 🐍 I’m currently learning python & html
 - 📫 how to reach me: ssromanova27@gmail.com
 
 <!---
